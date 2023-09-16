@@ -1,0 +1,87 @@
+Project MIT AI/CV Plane
+
+References 
+
+Main video- https://www.youtube.com/watch?v=kYs215TgI7c, target project .attach all research papers , explanation/ articles which support it . 
+
+Second video - https://www.youtube.com/watch?v=_qah8oIzCwk, Drone collision avoidance , second video, this supports the first one , and has more details 
+
+references-read main first then at its important references  
+
+http://groups.csail.mit.edu/robotics-center/public_papers/Barry15.pdf
+
+http://groups.csail.mit.edu/robotics-center/public_papers/Barry15a.pdf
+
+[https://dspace.mit.edu/bitstream/handle/1721.1/58750/Roy_Co-ordinated tracking.pdf?sequence=1&isAllowed=y](https://dspace.mit.edu/bitstream/handle/1721.1/58750/Roy_Co-ordinated%20tracking.pdf?sequence=1&isAllowed=y)
+
+Co-ordinated Tracking and Planning Using Air and Ground Vehicles
+
+https://groups.csail.mit.edu/rrg/papers/icra08-rh.pdf
+
+Planning in Information Space for a Quadrotor Helicopter in a
+GPS-denied Environment
+
+https://groups.csail.mit.edu/rrg/papers/icra12_aggressive_flight.pdf-REALLY IMP Paper
+
+State Estimation for Aggressive Flight in GPS-Denied Environments
+Using Onboard Sensing
+
+https://journals.sagepub.com/doi/pdf/10.1260/175682909790291492
+
+Autonomous Flight in Unknown
+Indoor Environments
+
+http://groups.csail.mit.edu/rrg/papers/BryIJRR15.pdf-
+
+Aggressive Flight of Fixed-Wing and Quadrotor
+Aircraft in Dense Indoor Environments
+
+http://groups.csail.mit.edu/rrg/papers/Richter_ISRR13.pdf
+
+Polynomial Trajectory Planning for Aggressive
+Quadrotor Flight in Dense Indoor Environments
+
+[https://dspace.mit.edu/bitstream/handle/1721.1/81874/Roy_Estimation%2C planning and mapping.pdf?sequence=1&isAllowed=y](https://dspace.mit.edu/bitstream/handle/1721.1/81874/Roy_Estimation%2c%20planning%20and%20mapping.pdf?sequence=1&isAllowed=y)
+
+**Estimation, planning, and mapping for autonomous flight using an RGB-D camera in GPS-denied environments**
+
+https://www.youtube.com/watch?v=p4ZEVVp77ds- **Simultaneous Tracking and Rendering (STAR)**
+
+thoughts
+
+Does it make sense to merge according to weights of top n rendering of estimated pose 
+
+what are the different ways this process can be made better , priority of different types(computing speed,efficiency, equipment required, 
+
+what are the bottlenecks in the system 
+
+what are the recent developments which can help 
+
+https://www.youtube.com/watch?v=qk2ViPVxmq0, **Multi-Level Mapping: Real-time Dense Monocular SLAM**
+
+Real time environment 3D model making , this applied for new construction of places/building/etc for augmented reality games,and places. 
+
+Thoughts
+
+new games and AR coming up will require pov 1st person data and models . Check and research about this , kumar/nikhil /amrit/shreyam/ adarsh/
+
+people
+
+https://dellaert.github.io/-
+
+### Frank Dellaert
+
+Professor, Robotics & Computer Vision
+
+[Georgia Institute of Technology](https://www.gatech.edu/)
+
+CS 4476/6476 Computer Vision in Fall 2021.
+
+https://dellaert.github.io/21F-x476/- Class website and details , Check if available for grad? how to target and make application according to it
+
+Research his github/linkdin https://github.com/dellaert?tab=repositories
+
+**Mobile Manipulation**
+Georgia Tech CS 8803MM Spring 2021 edition
+
+https://dellaert.github.io/21S-8803MM/- Class website and details , Check if available for grad? how to target and make application according to it
